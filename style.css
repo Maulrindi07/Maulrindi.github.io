@@ -1177,7 +1177,7 @@ nav a.active {
         font-size: 15px;
     }
 
-
+}
 @media screen and (max-width : 360px) {
     .cover-cv {
         transform: scale(0.8);
@@ -1187,5 +1187,16 @@ nav a.active {
     .cover-skill h1 {
         color: var(--cream);
     }
-}
+
+    .card-pel {
+        padding: 0.5rem;
+    }
+
+    .content {
+        font-size: 9px;
+    }
+
+    .content h1 {
+        font-size: 15px;
+    }
 }
